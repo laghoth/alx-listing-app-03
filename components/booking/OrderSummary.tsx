@@ -10,8 +10,6 @@ const OrderSummary: React.FC<{ bookingDetails: any }> = ({
   bookingDetails,
 }) => (
   <div className="bg-white p-6 shadow-md rounded-lg">
-    <h1 className="text-red-700">othmane laghlimi Order summary</h1>
-
     <h2 className="text-xl font-semibold">Review Order Details</h2>
     <div className="flex items-center mt-4">
       <img

@@ -2,10 +2,6 @@ import React from "react";
 
 const CancellationPolicy = () => (
   <div className="mt-6">
-    <h1 className="text-pink-600 text-lg">
-      {" "}
-      othmane laghlimi cancellation policy
-    </h1>
     <h2 className="text-xl font-semibold">Cancellation policy</h2>
     <p className="mt-2 text-gray-600">
       Free cancellation before Aug 23. Cancel before check-in on Aug 24 for a

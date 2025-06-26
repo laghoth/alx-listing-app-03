@@ -10,8 +10,6 @@ const BookingForm = () => (
   <div className="bg-white p-6 shadow-md rounded-lg">
     <h2 className="text-xl font-semibold">Contact Detail</h2>
     <form>
-      {/* Contact Information */}
-      <h1 className="text-red-700">othmane laghlimi booking form</h1>
       <div className="grid grid-cols-2 gap-4">
         <div>
           <label>First Name</label>
